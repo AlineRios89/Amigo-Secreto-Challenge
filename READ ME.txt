@@ -1,0 +1,11 @@
+Uma aplicação simples onde você pode cadastrar nomes de amigos e, quando quiser, sortear um deles para descobrir quem será seu amigo secreto.
+
+Funcionalidades:
+
+Adicionar nomes à lista através de um botão.
+
+Exibir alerta caso o campo de nome esteja vazio.
+
+Sortear um nome aleatoriamente quando a lista estiver preenchida.
+
+Mostrar na tela “Seu amigo é: [nome sorteado]”.
